@@ -1,0 +1,6 @@
+{
+  "name": "Grandmaster 3D Chess | شطرنج النخبة ثلاثي الأبعاد",
+  "description": "لعبة شطرنج ثلاثية الأبعاد احترافية وواقعية بالكامل مع قطع كلاسيكية مذهلة، إضاءة استوديو متقدمة، وتحليل ذكاء اصطناعي عبر Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
